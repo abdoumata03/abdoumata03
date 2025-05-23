@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 📚 Computer Science Student (Master's) at the Universrity of Lyon, France!
-- 💻 Passionate Software Developer
+- 📚 Étudiant en informatique (Master 1) à l’Université de Claude Bernard Lyon, France
+- 💻 Développeur logiciel passionné
 
 
 ## 🌐 Socials:
@@ -8,14 +8,11 @@
   <a href="https://www.linkedin.com/in/abdoumata/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:matallah.abdallah4@gmail.com" target="_blank">
+  <a href="mailto:matallah.abdallah.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.behance.net/abdelmata" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=053EFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-  <a href="https://www.facebook.com/luxachen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
