@@ -3,9 +3,10 @@
 **Full-stack engineer**, mostly in **TypeScript**. I like taking a product from the first conversation about the problem all the way to production: framing the need, making the architecture calls, then building it front and back.
 
 - 🧩 Freelance full-stack engineer, and work-study (*alternance*) at **Krafteo**, a SaaS company in Lyon
-- 🎓 Master's in Computer Science at Université Claude Bernard Lyon 1
+- 🎓 Master's in Computer Science (Université Claude Bernard Lyon 1), after an Engineer's degree in Computer Science (Algeria)
 - ⚙️ Web with **React / Next.js** and **Node.js / NestJS**, mobile with **React Native** & **Flutter**
 - 🌐 Portfolio: **[matallahdev.vercel.app](https://matallahdev.vercel.app)**
+- 📄 Resume: **[matallahdev.vercel.app/resume.pdf](https://matallahdev.vercel.app/resume.pdf)**
 
 ## 🌐 Socials
 <div align="center">
@@ -14,6 +15,9 @@
   </a>
   <a href="https://matallahdev.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+  <a href="https://matallahdev.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
   </a>
   <a href="mailto:matallah.abdallah.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -45,5 +49,4 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=abdoumata03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdoumata03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoumata03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
