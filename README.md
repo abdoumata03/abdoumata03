@@ -1,9 +1,9 @@
-# Hi, I'm Matallah 👋
+# Hi, I'm Abdallah 👋
 
 **Full-stack engineer**, mostly in **TypeScript**. I like taking a product from the first conversation about the problem all the way to production: framing the need, making the architecture calls, then building it front and back.
 
 - 🧩 Freelance full-stack engineer, and work-study (*alternance*) at **Krafteo**, a SaaS company in Lyon
-- 🎓 Master's in Computer Science (Université Claude Bernard Lyon 1), after an Engineer's degree in Computer Science (Algeria)
+- 🎓 Master's in Computer Science (Université Claude Bernard Lyon 1), after an Engineer's degree in Computer Science
 - ⚙️ Web with **React / Next.js** and **Node.js / NestJS**, mobile with **React Native** & **Flutter**
 - 🌐 Portfolio: **[matallahdev.vercel.app](https://matallahdev.vercel.app)**
 - 📄 Resume: **[matallahdev.vercel.app/resume.pdf](https://matallahdev.vercel.app/resume.pdf)**
